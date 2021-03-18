@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration_MarketDocument xmlns="urn:iec62325.351:tc57wg16:451-6:configurationdocument:3:0">
+	<mRID>62X205270350215R-EA-2020-09-11</mRID>
+	<type>A95</type>
+	<process.processType>A36</process.processType>
+	<sender_MarketParticipant.mRID codingScheme="A01">62X205270350215R</sender_MarketParticipant.mRID>
+	<sender_MarketParticipant.marketRole.type>A39</sender_MarketParticipant.marketRole.type>
+	<receiver_MarketParticipant.mRID codingScheme="A01">10X1001C--00001X</receiver_MarketParticipant.mRID>
+	<receiver_MarketParticipant.marketRole.type>A32</receiver_MarketParticipant.marketRole.type>
+	<createdDateTime>2020-09-11T09:58:16Z</createdDateTime>
+	<TimeSeries>
+		<mRID>1</mRID>
+		<businessType>B11</businessType>
+		<implementation_DateAndOrTime.date>2021-01-01</implementation_DateAndOrTime.date>
+		<biddingZone_Domain.mRID codingScheme="A01">10Y1001C--000182</biddingZone_Domain.mRID>
+		<registeredResource.mRID codingScheme="A01">62W9342984333277</registeredResource.mRID>
+		<registeredResource.name>ZAES_NPP SSh-750</registeredResource.name>
+		<registeredResource.location.name>Energodar</registeredResource.location.name>
+		<ControlArea_Domain>
+			<mRID codingScheme="A01">10Y1001C--000182</mRID>
+		</ControlArea_Domain>
+		<Provider_MarketParticipant>
+			<mRID codingScheme="A01">62X205270350215R</mRID>
+		</Provider_MarketParticipant>
+		<MktPSRType>
+			<psrType>B14</psrType>
+			<production_PowerSystemResources.highVoltageLimit unit="KVT">750</production_PowerSystemResources.highVoltageLimit>
+			<nominalIP_PowerSystemResources.nominalP unit="MAW">6000</nominalIP_PowerSystemResources.nominalP>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W086969517524B</mRID>
+				<name>ZAES_NPP Energoblok-1</name>
+				<nominalP unit="MAW">1000</nominalP>
+				<generatingUnit_PSRType.psrType>B14</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W2659524645413</mRID>
+				<name>ZAES_NPP Energoblok-2</name>
+				<nominalP unit="MAW">1000</nominalP>
+				<generatingUnit_PSRType.psrType>B14</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W769643206871I</mRID>
+				<name>ZAES_NPP Energoblok-3</name>
+				<nominalP unit="MAW">1000</nominalP>
+				<generatingUnit_PSRType.psrType>B14</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W542682764177Z</mRID>
+				<name>ZAES_NPP Energoblok-4</name>
+				<nominalP unit="MAW">1000</nominalP>
+				<generatingUnit_PSRType.psrType>B14</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W6585697167077</mRID>
+				<name>ZAES_NPP Energoblok-5</name>
+				<nominalP unit="MAW">1000</nominalP>
+				<generatingUnit_PSRType.psrType>B14</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W636366063474H</mRID>
+				<name>ZAES_NPP Energoblok-6</name>
+				<nominalP unit="MAW">1000</nominalP>
+				<generatingUnit_PSRType.psrType>B14</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+		</MktPSRType>
+	</TimeSeries>
+	<TimeSeries>
+		<mRID>1</mRID>
+		<businessType>B11</businessType>
+		<implementation_DateAndOrTime.date>2021-01-01</implementation_DateAndOrTime.date>
+		<biddingZone_Domain.mRID codingScheme="A01">10Y1001C--000182</biddingZone_Domain.mRID>
+		<registeredResource.mRID codingScheme="A01">62W386098617212I</registeredResource.mRID>
+		<registeredResource.name>RAES_NPP SSh-330</registeredResource.name>
+		<registeredResource.location.name>
+Varash</registeredResource.location.name>
+		<ControlArea_Domain>
+			<mRID codingScheme="A01">10Y1001C--000182</mRID>
+		</ControlArea_Domain>
+		<Provider_MarketParticipant>
+			<mRID codingScheme="A01">62X205270350215R</mRID>
+		</Provider_MarketParticipant>
+		<MktPSRType>
+			<psrType>B14</psrType>
+			<production_PowerSystemResources.highVoltageLimit unit="KVT">330</production_PowerSystemResources.highVoltageLimit>
+			<nominalIP_PowerSystemResources.nominalP unit="MAW">1835</nominalIP_PowerSystemResources.nominalP>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W403411343267Z</mRID>
+				<name>RAES_NPP Energoblok-1 Turbine-1</name>
+				<nominalP unit="MAW">220</nominalP>
+				<generatingUnit_PSRType.psrType>B14</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W8364708656986</mRID>
+				<name>RAES_NPP Energoblok-1 Turbine-2</name>
+				<nominalP unit="MAW">220</nominalP>
+				<generatingUnit_PSRType.psrType>B14</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W8017801570418</mRID>
+				<name>RAES_NPP Energoblok-2 Turbine-1</name>
+				<nominalP unit="MAW">220</nominalP>
+				<generatingUnit_PSRType.psrType>B14</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W629726351596A</mRID>
+				<name>RAES_NPP Energoblok-2 Turbine-2</name>
+				<nominalP unit="MAW">220</nominalP>
+				<generatingUnit_PSRType.psrType>B14</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W769643206871I</mRID>
+				<name>RAES_NPP Energoblok-3</name>
+				<nominalP unit="MAW">1000</nominalP>
+				<generatingUnit_PSRType.psrType>B14</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+		</MktPSRType>
+	</TimeSeries>
+	<TimeSeries>
+		<mRID>1</mRID>
+		<businessType>B11</businessType>
+		<implementation_DateAndOrTime.date>2021-01-01</implementation_DateAndOrTime.date>
+		<biddingZone_Domain.mRID codingScheme="A01">10Y1001C--000182</biddingZone_Domain.mRID>
+		<registeredResource.mRID codingScheme="A01">62W950355517375E</registeredResource.mRID>
+		<registeredResource.name>RAES_NPP SSh-750</registeredResource.name>
+		<registeredResource.location.name>
+Varash</registeredResource.location.name>
+		<ControlArea_Domain>
+			<mRID codingScheme="A01">10Y1001C--000182</mRID>
+		</ControlArea_Domain>
+		<Provider_MarketParticipant>
+			<mRID codingScheme="A01">62X205270350215R</mRID>
+		</Provider_MarketParticipant>
+		<MktPSRType>
+			<psrType>B14</psrType>
+			<production_PowerSystemResources.highVoltageLimit unit="KVT">750</production_PowerSystemResources.highVoltageLimit>
+			<nominalIP_PowerSystemResources.nominalP unit="MAW">1000</nominalIP_PowerSystemResources.nominalP>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W600168659176S</mRID>
+				<name>RAES_NPP Energoblok-4</name>
+				<nominalP unit="MAW">1000</nominalP>
+				<generatingUnit_PSRType.psrType>B14</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+		</MktPSRType>
+	</TimeSeries>
+	<TimeSeries>
+		<mRID>1</mRID>
+		<businessType>B11</businessType>
+		<implementation_DateAndOrTime.date>2021-01-01</implementation_DateAndOrTime.date>
+		<biddingZone_Domain.mRID codingScheme="A01">10Y1001C--000182</biddingZone_Domain.mRID>
+		<registeredResource.mRID codingScheme="A01">62W356894094581L</registeredResource.mRID>
+		<registeredResource.name>HAES_NPP SSh-330</registeredResource.name>
+		<registeredResource.location.name>
+Netishyn</registeredResource.location.name>
+		<ControlArea_Domain>
+			<mRID codingScheme="A01">10Y1001C--000182</mRID>
+		</ControlArea_Domain>
+		<Provider_MarketParticipant>
+			<mRID codingScheme="A01">62X205270350215R</mRID>
+		</Provider_MarketParticipant>
+		<MktPSRType>
+			<psrType>B14</psrType>
+			<production_PowerSystemResources.highVoltageLimit unit="KVT">330</production_PowerSystemResources.highVoltageLimit>
+			<nominalIP_PowerSystemResources.nominalP unit="MAW">1000</nominalIP_PowerSystemResources.nominalP>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W181232049632P</mRID>
+				<name>HAES_NPP Energoblok-1</name>
+				<nominalP unit="MAW">1000</nominalP>
+				<generatingUnit_PSRType.psrType>B14</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+		</MktPSRType>
+	</TimeSeries>
+	<TimeSeries>
+		<mRID>1</mRID>
+		<businessType>B11</businessType>
+		<implementation_DateAndOrTime.date>2021-01-01</implementation_DateAndOrTime.date>
+		<biddingZone_Domain.mRID codingScheme="A01">10Y1001C--000182</biddingZone_Domain.mRID>
+		<registeredResource.mRID codingScheme="A01">62W0459599839277</registeredResource.mRID>
+		<registeredResource.name>HAES_NPP SSh-750</registeredResource.name>
+		<registeredResource.location.name>
+Netishyn</registeredResource.location.name>
+		<ControlArea_Domain>
+			<mRID codingScheme="A01">10Y1001C--000182</mRID>
+		</ControlArea_Domain>
+		<Provider_MarketParticipant>
+			<mRID codingScheme="A01">62X205270350215R</mRID>
+		</Provider_MarketParticipant>
+		<MktPSRType>
+			<psrType>B14</psrType>
+			<production_PowerSystemResources.highVoltageLimit unit="KVT">750</production_PowerSystemResources.highVoltageLimit>
+			<nominalIP_PowerSystemResources.nominalP unit="MAW">1000</nominalIP_PowerSystemResources.nominalP>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W642539965223L</mRID>
+				<name>HAES_NPP Energoblok-2</name>
+				<nominalP unit="MAW">1000</nominalP>
+				<generatingUnit_PSRType.psrType>B14</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+		</MktPSRType>
+	</TimeSeries>
+	<TimeSeries>
+		<mRID>1</mRID>
+		<businessType>B11</businessType>
+		<implementation_DateAndOrTime.date>2021-01-01</implementation_DateAndOrTime.date>
+		<biddingZone_Domain.mRID codingScheme="A01">10Y1001C--000182</biddingZone_Domain.mRID>
+		<registeredResource.mRID codingScheme="A01">62W191679871593G</registeredResource.mRID>
+		<registeredResource.name>YUAES_NPP SSh-330</registeredResource.name>
+		<registeredResource.location.name>Yuzhnoukrains'k</registeredResource.location.name>
+		<ControlArea_Domain>
+			<mRID codingScheme="A01">10Y1001C--000182</mRID>
+		</ControlArea_Domain>
+		<Provider_MarketParticipant>
+			<mRID codingScheme="A01">62X205270350215R</mRID>
+		</Provider_MarketParticipant>
+		<MktPSRType>
+			<psrType>B14</psrType>
+			<production_PowerSystemResources.highVoltageLimit unit="KVT">330</production_PowerSystemResources.highVoltageLimit>
+			<nominalIP_PowerSystemResources.nominalP unit="MAW">2000</nominalIP_PowerSystemResources.nominalP>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W520568138212E</mRID>
+				<name>YUAES_NPP Energoblok-1</name>
+				<nominalP unit="MAW">1000</nominalP>
+				<generatingUnit_PSRType.psrType>B14</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W259637005899W</mRID>
+				<name>YUAES_NPP Energoblok-2</name>
+				<nominalP unit="MAW">1000</nominalP>
+				<generatingUnit_PSRType.psrType>B14</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+		</MktPSRType>
+	</TimeSeries>
+	<TimeSeries>
+		<mRID>1</mRID>
+		<businessType>B11</businessType>
+		<implementation_DateAndOrTime.date>2021-01-01</implementation_DateAndOrTime.date>
+		<biddingZone_Domain.mRID codingScheme="A01">10Y1001C--000182</biddingZone_Domain.mRID>
+		<registeredResource.mRID codingScheme="A01">62W670462928161E</registeredResource.mRID>
+		<registeredResource.name>YUAES_NPP SSh-750</registeredResource.name>
+		<registeredResource.location.name>Yuzhnoukrains'k</registeredResource.location.name>
+		<ControlArea_Domain>
+			<mRID codingScheme="A01">10Y1001C--000182</mRID>
+		</ControlArea_Domain>
+		<Provider_MarketParticipant>
+			<mRID codingScheme="A01">62X205270350215R</mRID>
+		</Provider_MarketParticipant>
+		<MktPSRType>
+			<psrType>B14</psrType>
+			<production_PowerSystemResources.highVoltageLimit unit="KVT">750</production_PowerSystemResources.highVoltageLimit>
+			<nominalIP_PowerSystemResources.nominalP unit="MAW">1000</nominalIP_PowerSystemResources.nominalP>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W875573499771F</mRID>
+				<name>YUAES_NPP Energoblok-3</name>
+				<nominalP unit="MAW">1000</nominalP>
+				<generatingUnit_PSRType.psrType>B14</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+		</MktPSRType>
+	</TimeSeries>
+	<TimeSeries>
+		<mRID>1</mRID>
+		<businessType>B11</businessType>
+		<implementation_DateAndOrTime.date>2021-01-01</implementation_DateAndOrTime.date>
+		<biddingZone_Domain.mRID codingScheme="A01">10Y1001C--000182</biddingZone_Domain.mRID>
+		<registeredResource.mRID codingScheme="A01">62W005559869398B</registeredResource.mRID>
+		<registeredResource.name>YUAES_NPP TGAES SSh-330</registeredResource.name>
+		<registeredResource.location.name>Yuzhnoukrains'k</registeredResource.location.name>
+		<ControlArea_Domain>
+			<mRID codingScheme="A01">10Y1001C--000182</mRID>
+		</ControlArea_Domain>
+		<Provider_MarketParticipant>
+			<mRID codingScheme="A01">62X205270350215R</mRID>
+		</Provider_MarketParticipant>
+		<MktPSRType>
+			<psrType>B10</psrType>
+			<production_PowerSystemResources.highVoltageLimit unit="KVT">330</production_PowerSystemResources.highVoltageLimit>
+			<nominalIP_PowerSystemResources.nominalP unit="MAW">302</nominalIP_PowerSystemResources.nominalP>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W487981668344S</mRID>
+				<name>YUAES_NPP Tashlytska GAES Gidroagregat-1</name>
+				<nominalP unit="MAW">151</nominalP>
+				<generatingUnit_PSRType.psrType>B10</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+			<GeneratingUnit_PowerSystemResources>
+				<mRID codingScheme="A01">62W053900857318G</mRID>
+				<name>YUAES_NPP Tashlytska GAES Gidroagregat-2</name>
+				<nominalP unit="MAW">151</nominalP>
+				<generatingUnit_PSRType.psrType>B10</generatingUnit_PSRType.psrType>
+				<generatingUnit_Location.name>
+				</generatingUnit_Location.name>
+			</GeneratingUnit_PowerSystemResources>
+		</MktPSRType>
+	</TimeSeries>
+</Configuration_MarketDocument>
